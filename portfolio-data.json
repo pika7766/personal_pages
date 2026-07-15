@@ -5,7 +5,7 @@
     "title": "個人學習歷程",
     "brand": "pika的個人網頁",
     "kicker": "Personal learning portfolio / 2026",
-    "headline": "pika的個人檔案",
+    "headline": "我的個人檔案",
     "description": "整理資訊社群參與、競賽與活動經歷，以及程式實作與自主學習成果。",
     "footer": "個人學習歷程資料",
     "year": 2026
@@ -411,7 +411,7 @@
       "title": "SITCON CAMP 2025 停車場比價網",
       "type": "組別",
       "description": "",
-      "url": "https://pika311435-2.github.io/parkgo/",
+      "url": "https://github.com/casperchen1/ParkGO.git",
       "technologies": []
     }
   ],
