@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-01-01",
+  "lastUpdated": "2026-09-30",
   "site": {
-    "title": "個人學習歷程",
+    "title": "pika.stusite.me",
     "brand": "pika的個人網頁",
-    "kicker": "Personal learning portfolio / 2026",
-    "headline": "我的個人檔案",
-    "description": "整理資訊社群參與、競賽與活動經歷，以及程式實作與自主學習成果。",
-    "footer": "個人學習歷程資料",
+    "kicker": "Personal webpage",
+    "headline": "pika個人網頁",
+    "description": "整理資訊社群參與、競賽與活動經歷，以及程式實作與自主學習成果的個人網頁。",
+    "footer": "pika個人網站",
     "year": 2026
   },
   "profile": {
